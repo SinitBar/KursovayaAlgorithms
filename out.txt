@@ -1,0 +1,5 @@
+got input:
+cos(pi)*tg(-log(abs(-ln(23.1278*exp(-4)))))/13.0498-sin(3^7)
+reverse polish notation of input:
+3.14159 cos 0 0 23.1278 0 4 - exp * ln - abs log - tg * 13.0498 / 3 7 ^ sin -
+result = -0.441394
